@@ -1,6 +1,7 @@
 # CRIAÇÃO DE SISTEMA BANCÁRIO 
 ### Objetivo: <br>
-Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
+Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.<br>
+**Foi utilizada a versão python 3.12.5**
 
 ### 1) Operação de saque<br>
 O sistema deve permitir realizar 3 saques diários com limite máximo de R$ 500,00 por saque. Caso o usuário não tenha saldo em conta, o sistema deve exibir uma mensagem informando que não será possível sacar o dinheiro por falta de saldo. Todos os saques devem ser armazenados em uma variável e exibidos na operação de extrato.
