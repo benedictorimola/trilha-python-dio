@@ -1,4 +1,9 @@
 # CRIAÇÃO DE SISTEMA BANCÁRIO 
+
+**Curso:** Bootcamp NTT DATA - Engenharia de Dados com Python<br>
+**Seção:** Sintaxe básica com pyhton<br>
+**Projeto:** Criando um sistema bancário com python<br>
+
 ### Objetivo: <br>
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.<br>
 **Foi utilizada a versão python 3.12.5**
