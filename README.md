@@ -8,6 +8,6 @@ Todas as atualizações efetuadas nesse repositório serão registradas nesta p�
 ### Data de criação do repositório: 25/9/2024<br>
 ### Atualizações:
 - 25/09/2024 <br>
-**CURSO:** Bootcamp NTT DATA - Engenharia de Dados com Python<br>
-Criação do objeto [sistema_bancario.py](https://github.com/benedictorimola/trilha-python-dio/tree/main/projetos/criacao_sistema_bancario)<br>
-
+**Curso:** Bootcamp NTT DATA - Engenharia de Dados com Python<br>
+**Seção:** Sintaxe básica com pyhton<br>
+**Projeto:** [Criando um sistema bancário com python](https://github.com/benedictorimola/trilha-python-dio/tree/main/projetos/criacao_sistema_bancario)<br>
