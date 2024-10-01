@@ -4,9 +4,24 @@
 **Seção:** Sintaxe básica com pyhton<br>
 **Projeto:** Criando um sistema bancário com python<br>
 
+### Disclaimer:
+Este documento possui aas definições de todas as versões em ordem decrescente.
+
 ### Objetivo: <br>
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.<br>
 **Foi utilizada a versão python 3.12.5**
+
+### DEFINIÇÃO DA VERSÃO 2:
+#### A partir da versão inicial, implemente as funcionalidades abaixo:
+
+Estabelecer um limite de 10 transações diárias para uma conta.
+
+Se o usuário tentar fazer uma transação após atingir o limite, deve ser informado que ele excedeu o número de transações permitidas para aquele dia.
+
+Mostre no extrato, a data e hora de todas as transações.
+
+
+### DEFINIÇÃO DA VERSÃO INICIAL:
 
 ### 1) Operação de saque<br>
 O sistema deve permitir realizar 3 saques diários com limite máximo de R$ 500,00 por saque. Caso o usuário não tenha saldo em conta, o sistema deve exibir uma mensagem informando que não será possível sacar o dinheiro por falta de saldo. Todos os saques devem ser armazenados em uma variável e exibidos na operação de extrato.
