@@ -1,3 +1,4 @@
+# VERSÃO 1
 import time
 mensagem_comprovante = "===> Aguarde a impressão do comprovante de depósito\n"
 mensagem_operação = "===> Efetuando operação.  Aguarde."
