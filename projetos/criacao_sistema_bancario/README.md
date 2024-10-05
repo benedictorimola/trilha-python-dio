@@ -14,12 +14,49 @@ Criar um sistema bancário com as operações: sacar, depositar e visualizar ext
 ### DEFINIÇÃO DA VERSÃO 2:
 #### A partir da versão inicial, implemente as funcionalidades abaixo:
 
-Estabelecer um limite de 10 transações diárias para uma conta.
+Criar as funcionalidades:<br>
+Criação de cliente<br>
+Criação de conta<br>
 
-Se o usuário tentar fazer uma transação após atingir o limite, deve ser informado que ele excedeu o número de transações permitidas para aquele dia.
+O desafio da versão 2 também solicitava o uso de uso de argumentos Keyword only and positional. <br> 
+Para atende esta solicitação, apliquei o uso de "Keyword only and positional" na na funcionalidade depósito.<br>
 
-Mostre no extrato, a data e hora de todas as transações.
+#### Como implementei:
+Criação de 3 menus:<br>
+Menu SISTEMA BANCÁRIO, que direciona para o menu ADMINISTRATIVO ou CONTA CLIENTE.<br>
+O menu ADMINISTRATIVO
 
+Esta versão permite:<br>
+O cadastramento de mais de um cliente.<br>
+O cadastramento de mais de um conta.<br>
+Uma conta só pode estar associada a um cliente.<br>
+O extrato é capaz de gerar as inforamções de movimentções de uma conta, a  partir da informações bancárias informadas no MENU CONTA CLIENTE.<br>
+
+#### Descrição dos Menus<br>
+
+MENU SISTEMA BANCÁRIO<br>
+[1] Administrativo<br>
+[2] Conta Cliente<br>
+[9] Encerrar<br>
+
+MENU ADMINISTRATIVO<br>
+[1] Nova conta<br>
+[2] Novo cliente<br>
+[3] Listar Contas<br>
+[4] Retorna menu anterior<br>
+[9] Encerrar<br>
+
+MENU CONTA CLIENTE<br>
+[1] Saque<br>
+[2] Depósito<br>
+[3] Extrato<br>
+[4] Retorna menu anterior<br>
+[9] Encerrar<br>
+
+#### Pequenas validações<br>
+Algumas validações foram implementadas, como uma evolução do desafio, com objetivo de aprimorar e treinar a lógica e uso da linguagem python, com opor exemplo:<br>
+- Tamnhos mínimo e máxio das informações solicitadas, com opor exemplo cpf e  nome<br>
+- Formato de entrada da data de nascimento
 
 ### DEFINIÇÃO DA VERSÃO INICIAL:
 
