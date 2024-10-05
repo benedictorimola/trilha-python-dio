@@ -8,11 +8,11 @@ Todas as atualizações efetuadas nesse repositório serão registradas nesta p�
 ### Data de criação do repositório: 25/9/2024<br>
 ### Atualizações:
 
-- 1/10/2024 <br>
+- 5/10/2024 <br>
 **Curso:** Bootcamp NTT DATA - Engenharia de Dados com Python<br>
 **Seção:** Lidando com data e hora no Python<br>
 **Projeto:** [Criando um sistema bancário com python](https://github.com/benedictorimola/trilha-python-dio/tree/main/projetos/criacao_sistema_bancario)<br>
-**Objetivo:** Mostrar no extrato a data e hora dasde todas as transações.
+**Objetivo:** Criar novas funções no desafio de sistema bancário.
 **Ação:** Criada a v2 do código com as alterações solicitadas.
 
 - 25/9/2024 <br>
