@@ -17,7 +17,7 @@ Permitir cadastramento de clientes pessoa física e pessoa jurídica<br>
 Um cliente pode ter mais de uma conta<br>
 A conta pode ser do tipo CC (Conta Corrente) ou P (Poupança)
 
-**Importante:** este sistema será melhorado de forma contínua, objetivando a fatoração de código e implementação de novas funiocnalidades, como transferência entre C/C e poupança, e vice-versa; transferências entre contas.
+**Importante:** este sistema será melhorado de forma contínua, objetivando a fatoração de código e implementação de novas funiocnalidades, como transferência entre C/C e poupança, e vice-versa; transferências entre contas e utilização de um banco de dados para armazenamento de dados.
 
 ### DEFINIÇÃO DA VERSÃO 2:
 #### A partir da versão inicial, implemente as funcionalidades abaixo:
