@@ -8,12 +8,23 @@ Todas as atualizações efetuadas nesse repositório serão registradas nesta p�
 ### Data de criação do repositório: 25/9/2024<br>
 ### Atualizações:
 
+- 8/10/2024 <br>
+**Curso:** Bootcamp NTT DATA - Engenharia de Dados com Python<br>
+**Seção:** Lidando com data e hora no Python<br>
+**Projeto:** [Criando um sistema bancário com python](https://github.com/benedictorimola/trilha-python-dio/tree/main/projetos/criacao_sistema_bancario)<br>
+**Objetivo:** Criar novas funções no desafio de sistema bancário.
+**Ação:** Criada a versão sistema_bancario_v3 do código com novas fucionalidades.<br>
+[**Novas funcionalidades**](https://github.com/benedictorimola/trilha-python-dio/blob/main/projetos/criacao_sistema_bancario/README.md
+) <br><br>
+
 - 5/10/2024 <br>
 **Curso:** Bootcamp NTT DATA - Engenharia de Dados com Python<br>
 **Seção:** Lidando com data e hora no Python<br>
 **Projeto:** [Criando um sistema bancário com python](https://github.com/benedictorimola/trilha-python-dio/tree/main/projetos/criacao_sistema_bancario)<br>
 **Objetivo:** Criar novas funções no desafio de sistema bancário.
 **Ação:** Criada a v2 do código com as alterações solicitadas.
+[**Novas funcionalidades**](https://github.com/benedictorimola/trilha-python-dio/blob/main/projetos/criacao_sistema_bancario/README.md
+) <br><br>
 
 - 25/9/2024 <br>
 **Curso:** Bootcamp NTT DATA - Engenharia de Dados com Python<br>
