@@ -11,6 +11,14 @@ Este documento possui aas definições de todas as versões em ordem decrescente
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.<br>
 **Foi utilizada a versão python 3.12.5**
 
+### DEFINIÇÃO DA VERSÃO 3:
+#### A partir da versão 2, implemente as funcionalidades abaixo:
+Permitir cadastramento de clientes pessoa física e pessoa jurídica<br>
+Um cliente pode ter mais de uma conta<br>
+A conta pode ser do tipo CC (Conta Corrente) ou P (Poupança)
+
+**Importante:** este sistema será melhorado de forma contínua, objetivando a fatoração de código e implementação de novas funiocnalidades, como transferência entre C/C e poupança, e vice-versa; transferências entre contas.
+
 ### DEFINIÇÃO DA VERSÃO 2:
 #### A partir da versão inicial, implemente as funcionalidades abaixo:
 
