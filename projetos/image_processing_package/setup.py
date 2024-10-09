@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Benedicto Rimola",
     author_email="rimolabenedicto@gmail.com",
-    description="Image processing package using skimage",
+    description="Criando imagens com marca d´água",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="my git url",
