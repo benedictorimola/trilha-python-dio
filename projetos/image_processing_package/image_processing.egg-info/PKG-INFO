@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: image_processing
+Version: 0.0.1
+Summary: Image processing package using skimage
+Home-page: my git url
+Author: Benedicto Rimola
+Author-email: rimolabenedicto@gmail.com
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+Requires-Dist: os
+Requires-Dist: cv2
+Requires-Dist: numpy
+
+# image_processing
+
+Descrition.<br>
+Pacote process_image usado para:<br>
+Processing:
+- criar uma ficura com marca dÂ´Ã¡gua
+
+## Instalation
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install process_image
+```
